@@ -164,7 +164,7 @@ button:hover {
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Mulish:wght@400;700&family=Jost:wght@400;700&display=swap');
 
 body {
-  font-family: "Merriweather", "Mulish", "Jost", serif;
+  font-family: "Merriweather", "Mulish", serif;
 }
 
 /* ===== MOBILE RESPONSIVENESS ===== */
